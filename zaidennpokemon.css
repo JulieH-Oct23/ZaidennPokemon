@@ -167,3 +167,16 @@ body {
 H1{
     text-align: center;
 }
+
+#pokemon-abilities {
+    width:200px;
+    height:100px;
+    background-color: white;
+    border: 1 px solid black;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top:20px;
+    padding:2px;
+    font-size: 18px;
+    overflow-y: auto;
+}
